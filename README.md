@@ -8,3 +8,6 @@ Student success was defined using reading and math test scores.
 The three variables considered are: budget per student, school size, and school type. 
 After cleaning the data, the data was used to explore correlations between student success and these three variables. 
 There was also a drill down section to see each school success by grade year. 
+
+The file is located within the folder "PyCitySchools" and is named "PyCitySchools_Completed.ipynb".
+
